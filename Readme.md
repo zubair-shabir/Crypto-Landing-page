@@ -22,6 +22,6 @@
 
 ## Links
 
-#### Live Site [Link](https://digital-marketing-page.netlify.app/)
+#### Live Site [Link](https://crypto-page-landing.netlify.app/)
 
-#### Github Repo [link](https://github.com/zubair-shabir/digital-marketing-page.git)
+#### Github Repo [link](https://github.com/zubair-shabir/Crypto-Landing-page)
